@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Automation suite">
+    <test name="UI Automation">
+        <groups>
+            <run>
+                <include name="smoke"/>
+            </run>
+        </groups>
+        <classes>
+            <class name="tests.test1"/>
+            <class name="tests.test2"/>
+            <class name="tests.test3"/>
+        </classes>
+    </test>
+</suite>

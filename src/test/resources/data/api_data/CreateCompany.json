@@ -1,0 +1,88 @@
+{
+  "company_name": "Mindtek Campus 2",
+  "company_type": "broker company",
+  "status": "active",
+  "mc_number": "1231267005",
+  "dot_number": "1234237959",
+  "ifta": false,
+  "address": "123 xyz St",
+  "apt_suite_company_co": null,
+  "city": "Chicago",
+  "state": "IL",
+  "zip_code": "60656",
+  "insurance": "Abc",
+  "producer_address": "123 xyz st",
+  "producer_apt_suite_company_co": null,
+  "producer_city": "CHicago",
+  "producer_state": "IL",
+  "producer_zip_code": "60656",
+  "policy_effective_day": null,
+  "policy_expiration": null,
+  "type_of_insurance": null,
+  "automobile_liability": "",
+  "num_of_truck_insured": null,
+  "policy_number": null,
+  "employer_id_num": "34-5678654",
+  "billing_address": null,
+  "bank_name": null,
+  "routing_number": null,
+  "account_number": null,
+  "president_full_name": null,
+  "trucks_in_fleet": null,
+  "scac_code": "",
+  "other_licenses": false,
+  "license_name": null,
+  "incorporated_in": null,
+  "warning": "",
+  "notes": null,
+  "company_picture": [],
+  "company_documents": [],
+  "contacts": [
+    {
+      "phone": "345-678-9098",
+      "ext": "",
+      "contact_name": "",
+      "email": "abc@gmail.com",
+      "fax": "",
+      "producer_phone": "123-456-7654",
+      "producer_phone_ext": "",
+      "producer_contact_name": "",
+      "producer_email": "abc@gmail.com"
+    }
+  ],
+  "phone_number": [
+    {
+      "phone": "345-678-9098",
+      "ext": "",
+      "contact_name": "",
+      "email": "abc@gmail.com",
+      "fax": "",
+      "producer_phone": "123-456-7654",
+      "producer_phone_ext": "",
+      "producer_contact_name": "",
+      "producer_email": "abc@gmail.com"
+    }
+  ],
+  "fax_number": [
+    {
+      "fax": ""
+    }
+  ],
+  "email_number": [
+    {
+      "email": "abc@gmail.com"
+    }
+  ],
+  "producer_email_number": [
+    {
+      "producer_email": "abc@gmail.com"
+    }
+  ],
+  "producer_phone_number": [
+    {
+      "producer_phone": "123-456-7654",
+      "producer_phone_ext": "",
+      "producer_contact_name": ""
+    }
+  ]
+}
